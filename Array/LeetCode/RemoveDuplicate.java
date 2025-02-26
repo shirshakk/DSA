@@ -10,6 +10,6 @@ public class RemoveDuplicate {
                 nums[j]=nums[i];
             }
         }
-        System.out.println(j);
+        System.out.println();
     }
 }
